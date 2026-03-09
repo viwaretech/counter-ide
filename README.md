@@ -42,9 +42,9 @@ Since version 2.1.0 and above, the installer no longer includes SDK packages, yo
 
  
 - **CounterIDE Setup (Latest Version)**  
-![Release](https://img.shields.io/github/v/release/viwaretech/CounterIDE?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/CounterIDE?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260304-E7352C)<br>
-➡️ [Release Page](https://github.com/viwaretech/CounterIDE/releases/latest)  
-➡️ [Download](https://github.com/viwaretech/CounterIDE/releases/latest/download/CounterIDE_setup.zip)
+![Release](https://img.shields.io/github/v/release/viwaretech/counter-ide?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/counter-ide?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260304-E7352C)<br>
+➡️ [Release Page](https://github.com/viwaretech/counter-ide/releases/latest)  
+➡️ [Download](https://github.com/viwaretech/counter-ide/releases/latest/download/CounterIDE_setup.zip)
 
 
 - **CounterIDE Setup**  
