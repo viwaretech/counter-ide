@@ -53,9 +53,8 @@ Since version 2.1.0 and above, the installer no longer includes SDK packages, yo
 
 
 - **Platform Tool & SDK**  
-![Version](https://img.shields.io/badge/Version%20-2.0.0-4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260218-E7352C)<br>
-➡️ [Download](https://drive.google.com/uc?export=download&id=1qLczg1Wm3nt7IatuIsg7vYMzXtD_a7KT)
-
+![Version](https://img.shields.io/badge/Version%20-2.2.0-4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260311-E7352C)<br>
+➡️ [Download](https://drive.google.com/uc?export=download&id=1I-ixDK6PWMh7tNYUkr67p0rSX2zZo6CO)
 ---
 
 ## 📜 License
